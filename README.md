@@ -1,4 +1,4 @@
-## Oiie! Me chamo Patrícia Emanuelle, estudante de Desenvolvimento de Software.
+## Oiie! Me chamo Patrícia Emanuelle Desenvolvedora de Software.
 
 <div align="center">
   <a href="https://github.com/PattyManu">
