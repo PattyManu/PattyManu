@@ -7,7 +7,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Estudei [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Atualmente fazendo faculdade Ciência da Computação - Wyden 
+🎓 Estudei Desenvolvimento de Software Fullstack | Atualmente fazendo faculdade Ciência da Computação - Wyden 
 
 🔎 Também sou curioso para com literatura
 
